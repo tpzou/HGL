@@ -36,7 +36,7 @@ For nuScenes ``--config_file configs/source/synth4dnusc_source.yaml``
 We use the pretrained models on Synth4D-KITTI, Synth4D-nuScenes and SynLIDAR provided by [GIPSO](https://github.com/saltoricristiano/gipso-sfouda). You can find the models [here](https://drive.google.com/file/d/1gT6KN1pYWj800qX54jAjWl5VGrHs8Owc/view?usp=sharing).
 For the model performance please refer to the main paper.
 
-After downloading the pretrained models decompress them in ```/pretrained_models```.```.
+After downloading the pretrained models decompress them in ```/pretrained_models```.
 
 
 ## Adaptation to target
