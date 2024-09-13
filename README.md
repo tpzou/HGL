@@ -1,4 +1,4 @@
-# **HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation [ECCV2024]**
+# **HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation [ECCV2024 Oral]**
 
 The official implementation of our work "HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation".
 
